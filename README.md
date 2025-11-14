@@ -443,7 +443,7 @@
 正在收集
 
 ## 实用工具
-
+- [FluentDictation](https://fluentdictation.com/) - 支持输入任意 YouTube 视频链接来生成听写内容，同时提供有发音练习功能，推荐使用！
 - [Anki](https://github.com/ankitects/anki) - 一款基于间隔重复（Spaced Repetition）技术的学习软件，广泛用于帮助记忆词汇、语法和其他学习内容。它通过卡片的形式帮助用户复习和加深记忆，尤其适合语言学习、医学考试等需要大量记忆的领域。通过定期复习，Anki 可以大幅提高学习效率和记忆的长期保持
 - [DashPlayer](https://github.com/solidSpoon/DashPlayer) - 为英语学习者量身打造的视频播放器，助你通过观看视频、沉浸真实语境，轻松提升英语水平
 - [Lexile](https://hub.lexile.com/) - 专注于帮助用户找到适合其阅读水平的书籍、文章和其他教育资源。该平台通过蓝思指数评估文本的难度，帮助用户根据个人阅读能力选择合适的材料
@@ -476,6 +476,7 @@
 - [单词森林](https://wordforest.cn/) - 一个简洁实用的英语单词学习工具
 - [Typing Word](https://github.com/zyronon/typing-word) - 通过敲键盘形式给出的正反馈来背诵单词
 - [SayWow](https://saywow.ai/) - 有趣、好玩，模拟人生学英语，像母语者一样开口说
+  
 ## 适合应试
 
 适合单纯为了应付考试而学习的英语🧐
